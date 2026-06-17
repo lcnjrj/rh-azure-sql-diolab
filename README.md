@@ -165,6 +165,8 @@ dotnet ef database update \
 az login
 ```
 
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_193345.png)
+
 ### 2. Compilar para produção
 
 ```bash
@@ -186,6 +188,7 @@ az webapp deployment source config-zip \
   --src ../app.zip
 ```
 
+
 ### 5. Resultado esperado
 
 ```
@@ -193,7 +196,7 @@ Status: Building the app...        ⏳
 Status: Build successful.          ✅
 Status: Site started successfully. ✅
 ```
-
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_193809.png)
 ### 6. Configurar Connection Strings no App Service
 
 ```
@@ -317,7 +320,7 @@ curl -X 'POST' \
   "dataAdmissao": "2024-01-15T00:00:00+00:00"
 }
 ```
-![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png))
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png)
 
 ### Print — POST com resposta 201
 
@@ -410,10 +413,10 @@ az storage entity query \
 | 3 | Connection Strings no App Service | 📸 _insira aqui_ |
 | 4 | Swagger UI com os 4 endpoints | 📸 _insira aqui_ |
 | 5 | POST retornando 201 Created | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png) |
-| 6 | GET retornando o funcionário | 📸 _insira aqui_ |
-| 7 | PUT atualizando o funcionário | 📸 _insira aqui_ |
+| 6 | GET retornando o funcionário | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png) |
+| 7 | Log Atividades | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_204552.png) |
 | 8 | DELETE removendo o funcionário | 📸 _insira aqui_ |
-| 9 | FuncionarioLog no Table Storage | 📸 _insira aqui_ |
+| 9 | FuncionarioLog no Table Storage | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png) |
 | 10 | Banco SQL com tabela Funcionarios | 📸 _insira aqui_ |
 
 ---
