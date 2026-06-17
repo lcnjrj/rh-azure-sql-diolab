@@ -1,4 +1,3 @@
-# rh-azure-diolab
 #Teste de conhecimentos do módulo de Nuvem com Microsoft Azure, da trilha .NET, neste desafio, desenvolver um sistema de RH. 
 # 🏢 Sistema de RH — Trilha .NET + Microsoft Azure
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
@@ -400,6 +399,7 @@ az storage entity query \
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044705_Gallery.jpg)
 ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png.jpg)
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044720_Gallery.jpg)
+
 ### Print — Conta de armazenamento no Portal
 
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery.jpg)
@@ -412,15 +412,12 @@ az storage entity query \
 |---|-----------|-------|
 | 1 | Grupo de recursos no Portal Azure | ![Texto Alternativo](/imagens/versao_final/Print_Resource_Manager_Microsoft_Azure_Chrome_2026-06-14_185724.png) |
 | 2 | App Service rhdiolab em execução | ![Texto Alternativo](/imagens/versao_final/Print_RhDioLab_desafio_rh_azure_RhDioLab_Microsoft_Azure_Goo_2026-06-14_220722.png)|
-| 3 | Connection Strings no App Service | 📸 _insira aqui_ |
-| 4 | Swagger UI com os 4 endpoints | 📸 _insira aqui_ |
-| 5 | POST retornando 201 Created | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png) |
-| 6 | GET retornando o funcionário | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png) |
-| 7 | Log Atividades | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_204552.png) |
-| 8 | DELETE removendo o funcionário | 📸 _insira aqui_ |
-| 9 | FuncionarioLog no Table Storage | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png) |
-| 10 | Banco SQL com tabela Funcionarios | 📸 _insira aqui_ |
-
+|3 | POST retornando 201 Created | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png) |
+| 4 | GET retornando o funcionário | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png) |
+| 5 | Log Atividades | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_204552.png) |
+| 6 | FuncionarioLog no Table Storage | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png) |
+| 7 | Conta gratuita | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery) |
+| 8 | Tudo Apagado | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044737_Gallery)|
 ---
 
 ## 👩‍💻 Autora
