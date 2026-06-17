@@ -421,7 +421,7 @@ az storage entity query \
 ---
 
 ## 👩‍💻 Autora
-
+Luciana Jorge de Faria
 Feito com durante a **Trilha .NET — Nuvem com Microsoft Azure** da [DIO](https://www.dio.me/)
 AI melhor editor de md que eu já vi!
 Joga o texto e ele estrutura tudo, corrigi ortografia, indentação!
