@@ -416,8 +416,8 @@ az storage entity query \
 | 4 | GET retornando o funcionário | ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png) |
 | 5 | Log Atividades | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_204552.png) |
 | 6 | FuncionarioLog no Table Storage | ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png) |
-| 7 | Conta gratuita | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery) |
-| 8 | Tudo Apagado | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044737_Gallery)|
+| 7 | Conta gratuita | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery.jpg) |
+| 8 | Tudo Apagado | ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044737_Gallery.jpg)|
 ---
 
 ## 👩‍💻 Autora
