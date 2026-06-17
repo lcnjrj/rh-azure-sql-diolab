@@ -106,8 +106,7 @@ Região: West US 2
 
 ### Print — Grupo de Recursos no Portal Azure
 
-![Texto Alternativo](/imagens
-/versao_final/ Print_Meu_Dashboard_Microsoft_Azure_Chrome_2026-06-14_220234.png){width=65%}
+![Texto Alternativo](/imagens/versao_final/Print_Meu_Dashboard_Microsoft_Azure_Chrome_2026-06-14_220234.png){width=65%}
 
 ---
 
