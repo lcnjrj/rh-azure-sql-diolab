@@ -106,7 +106,8 @@ Região: West US 2
 
 ### Print — Grupo de Recursos no Portal Azure
 
-> 📸 _Insira aqui o print do grupo de recursos com todos os recursos listados_
+![Texto Alternativo](/imagens
+/versao_final/ Print_Meu_Dashboard_Microsoft_Azure_Chrome_2026-06-14_220234.png){width=65%}
 
 ---
 
@@ -413,7 +414,8 @@ az storage entity query \
 ## 👩‍💻 Autora
 
 Feito com durante a **Trilha .NET — Nuvem com Microsoft Azure** da [DIO](https://www.dio.me/)
-AI melhor editor de md que eu já vi! Joga o texto e ele estrutur tudo, corrigi ortografia, indentação!
+AI melhor editor de md que eu já vi!
+Joga o texto e ele estrutura tudo, corrigi ortografia, indentação!
 
 ---
 
