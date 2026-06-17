@@ -300,7 +300,8 @@ curl -X 'POST' \
 }'
 ```
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_193730.jpg)
-![Texto Alternativo](/imagens/versao_final/print_2026-06-14_193730.jpg)
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_205535.png)
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_205524.png)
 
 
 **Resposta esperada (201 Created):**
@@ -404,8 +405,8 @@ az storage entity query \
 
 | # | Descrição | Print |
 |---|-----------|-------|
-| 1 | Grupo de recursos no Portal Azure | 📸 _insira aqui_ |
-| 2 | App Service rhdiolab em execução | 📸 _insira aqui_ |
+| 1 | Grupo de recursos no Portal Azure | ![Texto Alternativo](/imagens/versao_final/Print_Resource_Manager_Microsoft_Azure_Chrome_2026-06-14_185724.png) |
+| 2 | App Service rhdiolab em execução | ![Texto Alternativo](/imagens/versao_final/Print_RhDioLab_desafio_rh_azure_RhDioLab_Microsoft_Azure_Goo_2026-06-14_220722.png)|
 | 3 | Connection Strings no App Service | 📸 _insira aqui_ |
 | 4 | Swagger UI com os 4 endpoints | 📸 _insira aqui_ |
 | 5 | POST retornando 201 Created | 📸 _insira aqui_ |
