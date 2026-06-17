@@ -299,6 +299,9 @@ curl -X 'POST' \
   "dataAdmissao": "2024-01-15T00:00:00.000Z"
 }'
 ```
+![Texto Alternativo](/imagens/versao_final/print_2026-06-14_193730.jpg)
+![Texto Alternativo](/imagens/versao_final/print_2026-06-14_193730.jpg)
+
 
 **Resposta esperada (201 Created):**
 ```json
@@ -313,13 +316,14 @@ curl -X 'POST' \
   "dataAdmissao": "2024-01-15T00:00:00+00:00"
 }
 ```
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_205046.png)
 
 ### Print — POST com resposta 201
 
 ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_201143.png)
 ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png)
 ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png)
-> 📸 _Insira aqui o print do POST funcionando no Swagger_4
+
 **Buscar funcionário (GET):**
 ```bash
 curl -X 'GET' \
@@ -389,6 +393,7 @@ az storage entity query \
 
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044705_Gallery.jpg)
 ![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png.jpg)
+![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044720_Gallery.jpg)
 ### Print — Conta de armazenamento no Portal
 
 ![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery.jpg)
