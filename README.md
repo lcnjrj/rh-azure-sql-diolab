@@ -179,6 +179,8 @@ dotnet publish -c Release -o ./publish
 cd publish && zip -r ../app.zip .
 ```
 
+![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_193823.png)
+
 ### 4. Fazer o deploy
 
 ```bash
@@ -188,7 +190,6 @@ az webapp deployment source config-zip \
   --src ../app.zip
 ```
 
-
 ### 5. Resultado esperado
 
 ```
@@ -197,6 +198,7 @@ Status: Build successful.          ✅
 Status: Site started successfully. ✅
 ```
 ![Texto Alternativo](/imagens/versao_final/Print_pendrive_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-14_193809.png)
+
 ### 6. Configurar Connection Strings no App Service
 
 ```
