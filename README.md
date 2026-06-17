@@ -280,7 +280,7 @@ https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net/swagger
 
 ### Print — Swagger UI
 
-> 📸 _Insira aqui o print do Swagger com os 4 endpoints visíveis_
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_200224.png){width=65%}
 
 ### Via cURL
 
