@@ -106,7 +106,7 @@ Região: West US 2
 
 ### Print — Grupo de Recursos no Portal Azure
 
-![Texto Alternativo](/imagens/versao_final/Print_Meu_Dashboard_Microsoft_Azure_Chrome_2026-06-14_220234.png){width=65%}
+![Texto Alternativo](/imagens/versao_final/Print_Meu_Dashboard_Microsoft_Azure_Chrome_2026-06-14_220234.png)
 
 ---
 
@@ -213,7 +213,7 @@ Portal Azure
 
 ### Print — Connection Strings configuradas no App Service
 
-![Texto Alternativo](/imagens/versao_final/Print_rhdiolab_Microsoft_Azure_Chrome_2026-06-14_195401.png){width=65%}
+![Texto Alternativo](/imagens/versao_final/Print_rhdiolab_Microsoft_Azure_Chrome_2026-06-14_195401.png)
 
 ---
 
@@ -280,7 +280,7 @@ https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net/swagger
 
 ### Print — Swagger UI
 
-![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_200224.png){width=65%}
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_200224.png)
 
 ### Via cURL
 
@@ -316,8 +316,10 @@ curl -X 'POST' \
 
 ### Print — POST com resposta 201
 
-> 📸 _Insira aqui o print do POST funcionando no Swagger_
-
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_201143.png)
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_201151.png)
+> 📸 _Insira aqui o print do POST funcionando no Swagger_3
+> 📸 _Insira aqui o print do POST funcionando no Swagger_4
 **Buscar funcionário (GET):**
 ```bash
 curl -X 'GET' \
