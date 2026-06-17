@@ -213,7 +213,7 @@ Portal Azure
 
 ### Print — Connection Strings configuradas no App Service
 
-> 📸 _Insira aqui o print das variáveis de ambiente no App Service_
+![Texto Alternativo](/imagens/versao_final/Print_rhdiolab_Microsoft_Azure_Chrome_2026-06-14_195401.png){width=65%}
 
 ---
 
