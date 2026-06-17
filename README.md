@@ -387,11 +387,11 @@ az storage entity query \
 
 ### Print — Tabela FuncionarioLog com registros
 
-> 📸 _Insira aqui o print da tabela FuncionarioLog no Navegador de armazenamento_
-
+![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044705_Gallery.jpg)
+![Texto Alternativo](/imagens/versao_final/Print_logrhdiolab_Microsoft_Azure_Chrome_2026-06-14_215824.png.jpg)
 ### Print — Conta de armazenamento no Portal
 
-> 📸 _Insira aqui o print da conta de armazenamento logrhdiolab_
+![Texto Alternativo](/imagens/versao_final/print_2026-06-14_044658_Gallery.jpg)
 
 ---
 
