@@ -317,8 +317,8 @@ curl -X 'POST' \
 ### Print — POST com resposta 201
 
 ![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_201143.png)
-![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_201151.png)
-> 📸 _Insira aqui o print do POST funcionando no Swagger_3
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_205151.png)
+![Texto Alternativo](/imagens/versao_final/Print_Swagger_UI_Chrome_2026-06-14_204907.png)
 > 📸 _Insira aqui o print do POST funcionando no Swagger_4
 **Buscar funcionário (GET):**
 ```bash
